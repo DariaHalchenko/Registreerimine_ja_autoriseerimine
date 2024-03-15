@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Registreerimine_ja_autoriseerimine", "Registreerimine_ja_autoriseerimine.pyproj", "{A28DCDCC-1E25-411E-AF95-7052C126E4D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C043A00C-A43A-4E40-913B-009888F1AD5C}"
+	ProjectSection(SolutionItems) = preProject
+		andmeid.txt = andmeid.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A28DCDCC-1E25-411E-AF95-7052C126E4D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28DCDCC-1E25-411E-AF95-7052C126E4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16F0A885-3BA6-414C-894A-CDF2CFD56368}
+	EndGlobalSection
+EndGlobal
